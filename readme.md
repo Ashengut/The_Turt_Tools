@@ -120,8 +120,8 @@ deactivate
 
 Thanks for trying it out, and keep on turtlin'!
 
-![Main Menu](media/screenshots/prefix.png)
-![Main Menu](media/screenshots/renamingorder.png)
-![Main Menu](media/screenshots/cleanup.png)
-![Main Menu](media/screenshots/undooperation.png)
-![Main Menu](media/screenshots/saladbar.png)
+![Prefixing](media/screenshots/prefix.png)
+![Formatting](media/screenshots/renamingorder.png)
+![Cleaning](media/screenshots/cleanup.png)
+![Undoing](media/screenshots/undooperation.png)
+![Soundboard](media/screenshots/saladbar.png)
