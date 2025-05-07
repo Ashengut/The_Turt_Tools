@@ -14,6 +14,8 @@ I recommend copying a sample folder with a good variety of case scenarios, and e
 The core idea was to identify: BPM, KEY and PREFIX, and have the option to order those however you like; I haven't tested everything in-depth, but to my observation, I could only get "KEY_BPM_PREFIX" to work properly, despite attempts to prompt comprehensively (yes, this was "made" with AI)
 The cleanup script (separate) handles number of the duplication issues I ran into, sorry for the disjointed project! (it works pretty well tho)
 
+![Main Menu](media/screenshots/menu.png)
+
 ## 🚀 Step by step
 
 --- On Windows ---
