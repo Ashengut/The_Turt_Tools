@@ -119,3 +119,9 @@ deactivate
 
 
 Thanks for trying it out, and keep on turtlin'!
+
+![Main Menu](media/screenshots/prefix.png)
+![Main Menu](media/screenshots/renaming order.png)
+![Main Menu](media/screenshots/cleanup.png)
+![Main Menu](media/screenshots/undo operation.png)
+![Main Menu](media/screenshots/salad bar.png)
